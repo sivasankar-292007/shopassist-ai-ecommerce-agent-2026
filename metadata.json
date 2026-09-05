@@ -1,0 +1,6 @@
+{
+  "name": "ShopAssist AI - E-Commerce Customer Agent",
+  "description": "24/7 intelligent customer-facing AI agent for e-commerce stores providing instant personalized shopping assistance, order tracking, product recommendations, and automated issue resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
